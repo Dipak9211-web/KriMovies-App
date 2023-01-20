@@ -1,0 +1,20 @@
+.loading-img{
+    margin:40px 400px;
+    width: 40%;
+    padding: 10px;
+}
+@media screen and (max-width:900px) {
+    .loading-img{
+        margin:40px 300px;
+    }
+}
+@media screen and (max-width:700px) {
+    .loading-img{
+        margin:40px 200px;
+    }
+}
+@media screen and (max-width:500px) {
+    .loading-img{
+        margin:40px 100px;
+    }
+}
